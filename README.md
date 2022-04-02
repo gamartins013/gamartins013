@@ -1,16 +1,13 @@
-### Hi there 👋
+### Eai meu chapa, eu sou o Gabriel Martins !!
 
-<!--
-**gamartins013/gamartins013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou Bacharel em Ciências Contábeis pelo Centro Universitário Don Domenico
+- Estou cursando Analise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie
+- Atualmente aprendendo JavaScript
+- Hoje estou trabalhando como Analista de Logistica Pleno porém estou em busca de mudança de área !!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://github.com/gamartins013">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gamartins013&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamartins013&layout=compact">
+</div>
