@@ -14,7 +14,7 @@
 
   
  <div>
-    <a href="https://github.com/gamartins013">
+    <a href="https://github.com/gamartins013/learning-petshop-nodejs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gamartins013&repo=github-readme-stats" />
 </a>
  </div>
