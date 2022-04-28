@@ -11,10 +11,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gamartins013&show_icons=true&theme=radical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamartins013&layout=compact">
 </div>
-
-  
- <div>
-    <a href="https://github.com/gamartins013/learning-petshop-nodejs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gamartins013&repo=github-readme-stats" />
-</a>
- </div>
