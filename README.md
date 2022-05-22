@@ -2,7 +2,7 @@
 
 - Sou Bacharel em Ciências Contábeis pelo Centro Universitário Don Domenico
 - Estou cursando Analise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie
-- Atualmente aprendendo JavaScript
+- Atualmente aprendendo JavaScript, React e NodeJS
 - Hoje estou trabalhando como Analista de Logistica Pleno porém estou em busca de mudança de área !!
 
 
