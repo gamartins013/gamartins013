@@ -2,6 +2,7 @@
 
 - Sou Bacharel em Ciências Contábeis pelo Centro Universitário Don Domenico
 - Estou cursando Analise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie
+- Software Developer Intern At IBM
 - Atualmente aprendendo JavaScript, React e NodeJS
 
 
