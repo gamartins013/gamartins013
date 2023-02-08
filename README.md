@@ -23,6 +23,4 @@ Atualmente atuando como Application Developer na IBM
 <br>
 
 
-![Snake animation](https://github.com/gamartins013/gamartins013/blob/output/github-contribution-grid-snake.svg)
-
 
