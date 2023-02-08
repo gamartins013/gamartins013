@@ -1,61 +1,28 @@
 ### Eai meu chapa, eu sou o Gabriel Martins !!
 
-- Sou Bacharel em Ciências Contábeis pelo Centro Universitário Don Domenico
-- Estou cursando Analise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie
-- Atualmente atuando como Application Developer na IBM
+Sou Bacharel em Ciências Contábeis pelo Centro Universitário Don Domenico
+Estou cursando Analise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie
+Atualmente atuando como Application Developer na IBM
 
 
-
-Backend:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-</div>
-
-<br>
-<br>
-
-Frontend:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-</div>
-
-<br>
-<br>
-
-Banco de dados:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-</div>
-
-<br>
-<br>
-
-Sistemas Operacionais:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-</div>
-
-<br>
-<br>
-
-Outros:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-</div>
-
-<br>
-<br>
+- <b>Habilidades</b>: Java, Python, NodeJS, Angular, Spring Boot, Css, Bootstrap, Sass, ApacheWebServer, Docker, Ubunto 20.04, MySql, Aws.
+- <b>Ferramentas</b>: Jira, IntelliJ, PyCharm, Visual Studio Code, MySql Workbench, Bastion Host, Figma, Git, Kiali, Splunk, Kafka. 
     
+
+## Contatos:
+
+<div>
+  <a href="https://instagram.com/gbrl_99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dev@gabrielmartins.tech"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-martins-b017a214b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+<br>
+<br>
+<br>
+
+
+![Snake animation](https://github.com/gamartins013/gamartins013/blob/output/github-contribution-grid-snake.svg)
 
 
