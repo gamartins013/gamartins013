@@ -5,7 +5,7 @@ Estou cursando Analise e Desenvolvimento de Sistemas pela Universidade Presbiter
 Atualmente atuando como Application Developer na IBM
 
 
-- <b>Habilidades</b>: Java, Python, NodeJS, Angular, Spring Boot, Css, Bootstrap, Sass, ApacheWebServer, Docker, Ubunto 20.04, MySql, Aws.
+- <b>Habilidades</b>: Java, Python, NodeJS, Angular, Spring Boot, Css, Bootstrap, Sass, ApacheWebServer, Docker, Ubuntu 20.04, MySql, Aws.
 - <b>Ferramentas</b>: Jira, IntelliJ, PyCharm, Visual Studio Code, MySql Workbench, Bastion Host, Figma, Git, Kiali, Splunk, Kafka. 
     
 
